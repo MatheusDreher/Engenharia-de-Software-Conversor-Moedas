@@ -23,5 +23,18 @@ int main() {
         printf("3. Real para Dolar\n");
         printf("4. Sair\n");
         scanf("%d", &escolha);
-}
+
+  switch (escolha) {
+            case 1:
+                printf("Digite o valor em Dolares: ");
+                scanf("%f", &valor);
+                printf("%.2f Dolares equivalem a %.2f Euros.\n", valor, converter(valor, taxaDolarEuro));
+                break;
+            default:
+                printf("Opcao invalida.\n");
+                break;
+        }
+    }
+
+    return 0;
 }
