@@ -34,4 +34,4 @@ Digite o valor em Dolares: 50
 50.00 Dolares equivalem a 46.00 Euros.
 
 ## Autor
-Seu Nome
+Matheus Henrique Dreher dos Santos
