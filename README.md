@@ -8,9 +8,9 @@ Conversão de Real para Dólar: Insira um valor em reais para obter o equivalent
 Encerramento do Programa: Escolha a opção "Sair" para encerrar o programa.
 
 ## Taxas de Câmbio
-Taxa Dólar para Euro: 1 Dólar = 0.92 Euro
-Taxa Euro para Real: 1 Euro = 5.36 Reais
-Taxa Real para Dólar: 1 Real = 0.20 Dólar
+Taxa Dólar para Euro: 1 Dólar = 0.92 Euro;
+Taxa Euro para Real: 1 Euro = 5.36 Reais;
+Taxa Real para Dólar: 1 Real = 0.20 Dólar;
 
 ## Como Usar
 Escolha uma das seguintes opções:
