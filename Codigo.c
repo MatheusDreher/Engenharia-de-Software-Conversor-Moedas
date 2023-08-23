@@ -13,4 +13,15 @@ int main() {
     int escolha;
     float valor;
     int continuar = 1; 
+
+       printf("Bem-vindo ao Conversor de Moedas!\n");
+
+    while (continuar) {
+        printf("Selecione a operacao:\n");
+        printf("1. Dolar para Euro\n");
+        printf("2. Euro para Real\n");
+        printf("3. Real para Dolar\n");
+        printf("4. Sair\n");
+        scanf("%d", &escolha);
+}
 }
