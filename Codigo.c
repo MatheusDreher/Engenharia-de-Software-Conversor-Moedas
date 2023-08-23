@@ -35,7 +35,16 @@ int main() {
                 scanf("%f", &valor);
                 printf("%.2f Euros equivalem a %.2f Reais.\n", valor, converter(valor, taxaEuroReal));
                 break;
-
+            case 3:
+                printf("Digite o valor em Reais: ");
+                scanf("%f", &valor);
+                printf("%.2f Reais equivalem a %.2f Dolares.\n", valor, converter(valor, taxaRealDolar));
+                break;
+          
+            case 4:
+                printf("Saindo do programa.\n");
+                continuar = 0; 
+                break;
             default:
                 printf("Opcao invalida.\n");
                 break;
